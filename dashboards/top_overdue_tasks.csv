@@ -1,0 +1,6 @@
+task_id,customer_id,task_type,duration_hours,sla_hours
+2,1002,Account Opening,26.0,8
+4,1004,KYC Verification,7.5,6
+5,1005,Account Opening,7.0,6
+8,1008,Account Opening,8.0,7
+9,1009,Transaction Review,3.5,3
